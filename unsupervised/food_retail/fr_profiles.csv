@@ -1,0 +1,11 @@
+,Cluster,Channel,Region,AssortmentExt,Overall_Spending,Fresh,MeatAndFish,Wine,Frozen,PersonalCare,Deli,,,,
+,C1,online,-,Hight,Med,Low,Low,Low,Low,Low,Low,,,,
+,C2,pos,C-S,Low,Low,Med,Low,Low,Med,Low,Med,,,,
+,C3,pos,N,-,Hight,Med,Hight,Hight,Med,Hight,Hight,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Cluster,Sum - MeatAndFish,Sum - Fresh,Sum - Wine,Sum - Frozen,Sum - PersonalCare,Sum - Deli,,,MeatAndFish,Fresh,Wine,Frozen,PersonalCare, Deli
+,C1,1521743,1264414,2317845,234671,1032270,248988,,,"22,99 %","19,10 %","35,01 %","3,54 %","15,59 %","3,76 %"
+,C2,292861,1087448,360616,345373,69597,101597,,,"12,97 %","48,17 %","15,97 %","15,30 %","3,08 %","4,50 %"
+,C3,735753,2928269,820101,771606,165990,320358,,,"12,81 %","51,00 %","14,28 %","13,44 %","2,89 %","5,58 %"
+,Total Result,2550357,5280131,3498562,1351650,1267857,670943,,,,,,,,
